@@ -1,0 +1,23 @@
+.header{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+.mainHeader{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+.header:hover{
+    text-decoration: none;
+    color: black;
+}
+.mainHeader:hover{
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    color: black;
+}
